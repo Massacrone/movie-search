@@ -31,10 +31,6 @@ def get_information(sup):
         else:
             print('Please, check your connection.')
 
-
-
-
-
 out = False
 while not out:
     print('If you want to exit just type EXIT!')
